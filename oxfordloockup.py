@@ -1,7 +1,7 @@
 import requests
 import json
-app_id='e976c347'
-app_key='43b56d7791a8b1d8e80099f1616324e7'
+app_id='app_id'
+app_key='app_key'
 
 language = 'en-gb'
 
